@@ -1,15 +1,15 @@
 EESchema Schematic File Version 4
 LIBS:ESP12-Domo-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "ESP12Domo"
+Date "2019-03-17"
+Rev "1.0"
+Comp "Anderson69s.com"
+Comment1 "Alexandre Perier-Muzet"
 Comment2 ""
 Comment3 ""
 Comment4 ""
